@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/fasthttp/session"
+	"github.com/gitmko0/session"
 )
 
 var provider = NewProvider()
